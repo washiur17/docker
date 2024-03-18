@@ -1,0 +1,4 @@
+READ README.md
+==============
+Get API Key for YouTube: https://www.slickremix.com/docs/get-api-key-for-youtube/
+COMPLETED UPTO HERE: https://youtu.be/i7ABlHngi1Q?t=1543
